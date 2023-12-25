@@ -99,4 +99,3 @@ for i in range(10,60):
         plt.ylabel('Height')
         plt.title(f"Predicted Values for {i}th interpolation")
         plt.show()
-
